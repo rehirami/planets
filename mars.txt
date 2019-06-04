@@ -3,3 +3,4 @@ The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 Decided to chose Venus as a base instead
 Boys go to Jupiter
+We removed the conflict on this line
